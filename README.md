@@ -1,3 +1,4 @@
 # basicpthon
 this repository contains the exponentiation for python
-basic python coes
+basic python codes
+Only Python
